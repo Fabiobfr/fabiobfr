@@ -1,6 +1,4 @@
 ### Hello!! Sou o Fábio Ribeiro, engenheiro civil formado e agora estudante de engenharia de software!!
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
 
 <div align="center">
   <a href="https://github.com/Fabiobfr">
@@ -9,8 +7,8 @@
 </div>
 
 <div>
-  <i class="devicon-html5-plain-wordmark colored"></i>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
